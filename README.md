@@ -35,17 +35,6 @@ This project is a simple HTML webpage that uses the **Google Translate API** to 
 3. Use the dropdown at the top to select a language.
 4. The content below will automatically translate.
 
-## 🚀 How to Deploy on GitHub Pages
-
-1. Push your project to a GitHub repository.
-2. Go to **Settings** → **Pages**.
-3. Select the branch (e.g., `main`) and root (`/`) as the source.
-4. Save it and get your live link in a few seconds.
-
-## 💡 Future Enhancements
-
-- Add more text or sections to demonstrate translation.
-- Apply custom CSS for better UI.
 
 ## 👨‍💻 Author
 
